@@ -1,0 +1,10 @@
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\obj\Debug\ApiModels.csprojResolveAssemblyReference.cache
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\ApiModels.dll.config
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\ApiModels.dll
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\ApiModels.pdb
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\EntityFramework.dll
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\EntityFramework.xml
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\obj\Debug\ApiModels.dll
+D:\LEARN IT\Janeto\JanetoWebAPI\ApiModels\obj\Debug\ApiModels.pdb
